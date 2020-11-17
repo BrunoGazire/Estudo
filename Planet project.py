@@ -10,8 +10,6 @@ if user_input == planets[0]:
     info.close()
 else:
     print("ok")
-    print("algo")
-    
 
 
 
